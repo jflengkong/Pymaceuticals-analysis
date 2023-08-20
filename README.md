@@ -19,7 +19,8 @@ Two identical pie graphs and two identical bar graphs were generated with the di
 ## Calculations for Quartiles, Outliers and Creating a Box Plot 
 The final tumour volume of each mouse across the four most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin were calculated.
 The quartiles and IQR were calculated and outliers were identified across all four treatment regimen. 
-Groupby, merge and for loops were used to generate the desired outcome. 
+Groupby, merge and for loops were used to generate the desired outcome.
+
 ![box_plot](https://github.com/jflengkong/Pymaceuticals-challenge/blob/main/Screenshots/box_plots.png)
 
 ## Line Plot and Scatter Plot 
