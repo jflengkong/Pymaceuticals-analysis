@@ -14,6 +14,7 @@ Here we created a DataFrame of summary statistics including the mean, median, va
 
 ## Creating Bar Charts and Pie Graphs 
 Two identical pie graphs and two identical bar graphs were generated with the difference of using matplotlib vs. pandas. 
+
 ![bar_chart](https://github.com/jflengkong/Pymaceuticals-challenge/blob/main/Screenshots/bar_chart.png)
 
 ## Calculations for Quartiles, Outliers and Creating a Box Plot 
